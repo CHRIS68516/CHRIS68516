@@ -2,24 +2,10 @@
 
 Welcome to my GitHub profile! Here’s a little about me:
 
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on: **[Your current project or focus]**
-- 🌱 I’m currently learning: **[Technologies or skills you are learning]**
-- 👯 I’m looking to collaborate on: **[Open source projects or topics of interest]**
-- 🤔 I’m looking for help with: **[Anything you want help with]**
-- 💬 Ask me about: **[Your favorite topics or expertise areas]**
-- 📫 How to reach me: **[Your email address or social links]**
-- 😄 Pronouns: **[Your pronouns]**
-- ⚡ Fun fact: **[A fun fact about you]**
-
----
 
 ## 🛠️ Languages and Tools
 
-##![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
